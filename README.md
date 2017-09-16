@@ -29,7 +29,7 @@ doctrine:
                 prefix: App\Entity
                 alias: App
 ```
-This will make Symfony scan 'src/Entity' for doctrine entities. Please [click here](http://symfony.com/doc/current/reference/configuration/doctrine.html#mapping-entities-outside-of-a-bundle) for detailed information.
+This will make Symfony scan 'src/Entity' for doctrine entities. Please [click here](http://symfony.com/doc/current/reference/configuration/doctrine.html#mapping-entities-outside-of-a-bundle) for detailed information about how make a non-bundle directory to have entity classes.
 
 Step 2
 ------------
