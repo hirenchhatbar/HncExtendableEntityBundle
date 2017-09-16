@@ -1,4 +1,4 @@
-How to make doctrine entity class extendable?
+How to make doctrine entity class extendable in Symfony?
 =============
 
 One of the so called drawback of Symfony - Doctrine is that it doesn't allow entity class to be extendable (Read 'Entities & Entity Mapping' with [Symfony documentation](https://symfony.com/doc/current/bundles/override.html). There are other solutions of the same like [Mapped Superclasses](http://docs.doctrine-project.org/projects/doctrine-orm/en/latest/reference/inheritance-mapping.html) but that tend to be somewhat difficult, limited and less flexible(?). So, I have tried to device a simple solution which follows.
