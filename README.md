@@ -236,7 +236,7 @@ php bin/console doctrine:schema:update --force
 Step 7
 ------------
 
-Now, you can overwrite any field definition, add new columns like below:
+Now, you can override any field definition, add new columns like below:
 
 ```php
 <?php
